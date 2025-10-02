@@ -20,4 +20,4 @@ This project is focused on the identifying Categories and Brands and their cart 
 ---
 
 ## Dataset  
-Full dataset (~150 MB) available at: [sumitsingh.info/dataset/cart-abandon](https://sumitsingh.info/dataset/cart-abandon))
+Full dataset (~150 MB) available at: [sumitsingh.info/dataset/cart-abandon](https://sumitsingh.info/dataset/cart-abandon)
